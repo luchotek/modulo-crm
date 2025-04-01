@@ -1,5 +1,7 @@
-body {
-  font-family: Arial, sans-serif;
-  margin: 2rem;
-  background-color: #f9f9f9;
+
+.kanban-col {
+  background: #f0f0f0;
+  min-height: 200px;
+  padding: 10px;
+  border-radius: 6px;
 }
